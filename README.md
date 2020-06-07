@@ -1,6 +1,6 @@
 # Code (Charles Petzold)
 
-### Electricity
+###  *Electricity*
 
 ## Chapter Four - Anatomy of a Flashlight
 
