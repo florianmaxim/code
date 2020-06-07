@@ -84,7 +84,11 @@ they generate spare electrons on the side with a minus sign (anode) and demand e
 
 ---
 
+## Types of connection
 
+* in series * : Batteries facing the same direction. The posiive end of one battery is connected to the negative end of another battery.
+
+* in parallel * : 
 
 
 
