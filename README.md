@@ -46,9 +46,30 @@ We distinguish between *compounds* (hydrogen, oxygen, sodium and chlorine) and *
 The number of electrons in an atom is usually the same as the number of protons.
 In certain circumstances they are not.
 
--> That's how electricity happens.
+-> That's how electricity happens:
 
 ---
+
+We describe protons and electrons with a characteristic called *charge*.
+
+Protons are said to have a positive charge.
+Electrons are said to have a negative charge.
+Neutrons have no charge, they are neutral.
+
+*We describe the relationship between protons and electrons with the note that opposite charges attract and like charges repel.*
+
+---
+
+We call the power that is holding the protons within the nucleus *strong force*.
+(If we split the nucleus we create nuclear energy.)
+
+-> So protons and electrons are the happiest if they exist together in equal numbers.
+
+---
+
+If an inequality of protons and electrons arouse the atoms that is missing electrons tried to grab them from another atoms nearby, that one grabs one from another one nearby and so on.
+
+-> The passage of electrons from atom to atom is what we call _electricity_
 
 
 
