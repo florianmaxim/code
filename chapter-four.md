@@ -84,11 +84,87 @@ they generate spare electrons on the side with a minus sign (anode) and demand e
 
 ---
 
-###  *Basic Concepts of Electricity*
+###  *Basic Principles of Electricity*
 
-* in series * : Batteries facing the same direction. The posiive end of one battery is connected to the negative end of another battery.
+_Conductance_ 
+Some substances are better than others carrying electricity (*conductors*). Their atoms have only one electron on their outer shell, so it's easier for them to jump over. The best conductors are copper, silver and gold.
 
-* in parallel * : 
+_Resistence_
+Some substances are more resistent to carry electricity(*resistors*). Their atoms have more electrons on their outer shell, so it's harder for them to jump over to another atom..
+
+_Insulation_
+Substances with a very high resistence are called *insultors*.
+
+-> longer wire - high resistence
+-> thicker wire - lower resistence
+
+---
+
+_Voltage (Volt)_
+The *potential of doing work. 
+
+_Current (Ampere)_
+The number related to the number of electrons actually zipping around the circuit.
+
+---
+
+_Water/Pipes - Analogy_
+
+* Current * : The _amount_ of water flowing through a pipe.
+* Voltage * : The water's _pressure.
+* Resistance * : The pipe's with (the smaller the pipe the larger the resistance.)
+
+---
+
+###  *Basic Laws of Electricity*
+
+_Ohm's law_
+
+``` I = E / R ```
+(Current = Voltage / Resistance)
+
+* Battery without any connection between the poles: HIGH Resistance*
+1.5V / MUCH = NOTHING flows (no Ampere) 
+
+* Battery without direkt connection between the poles: LOW Resistance*
+1.5V / LITTLE = EVERTHING flow (much ampere)
+
+Two batteries à 1.5 in series are 3 Volts in total and a lightbulb with a resistance of 4 Ohms:
+
+3V / 4Ohm 
+= 0.75 Ampere 
+= 750 miliamperes
+= 4.680.000.000.000.000.000 electrons flow through the lightbulb per second.
+
+---
+
+_Lightbulb_
+
+If a wire has a low resistance, it can get hot and start to glow.
+
+A lightbulb's wire is made of thungstens called a filament.
+The low resistance causes it to heat up.
+In open air it would burn. In the lightbulb vacuum it doenst, so it glows and gives off light.
+
+---
+
+_Wattage (Watt)_
+
+``` P = E * I ```
+Power = Volt * Ampere
+
+3 Volts and 0.75amp = 3 * 0.75 = 2.25 watt
+
+---
+
+
+
+
+
+
+
+
+
 
 
 
