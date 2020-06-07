@@ -1,6 +1,6 @@
 # Code (Charles Petzold)
 
-###  *Electricity*
+###  *The Nature of Electricity*
 
 ## Chapter Four - Anatomy of a Flashlight
 
@@ -84,7 +84,7 @@ they generate spare electrons on the side with a minus sign (anode) and demand e
 
 ---
 
-## Types of connection
+###  *Basic Concepts of Electricity*
 
 * in series * : Batteries facing the same direction. The posiive end of one battery is connected to the negative end of another battery.
 
