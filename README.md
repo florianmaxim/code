@@ -73,12 +73,19 @@ If an inequality of protons and electrons arouse the atoms that is missing elect
 
 -> How can we create an inequality of protons and electrons to start the movement of electrons?
 
---
+---
 
 We describe batteries as devices in which chemical reactions take place that break down molecules into other molecules so 
 they generate spare electrons on the side with a minus sign (anode) and demand extra electrons on the side with the plus sign (cathode).
 
+-> The spare ones are making their way to that side that is missing some (since thei are obsessed with equality).
+
 -> This way chemical energy is converted to electrical energy.
+
+---
+
+
+
 
 
 
