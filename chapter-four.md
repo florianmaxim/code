@@ -160,7 +160,7 @@ Power = Volt * Ampere
 Either electricity flows or not.
 Either the circuit is open or closed.
 
-## -> Analogy to binary codes will be in very useful.
+## This analogy to binary codes will come in very useful.
 
 
 
