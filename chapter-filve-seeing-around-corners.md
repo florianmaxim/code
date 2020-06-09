@@ -1,6 +1,6 @@
 # "Code" by Charles Petzhold
 
-### *Electricity (Basic concepts)*
+### *Basic Concepts of Electricity: Common and Ground*
 
 ## Chapter Five - Seeing Around Corners
 
@@ -42,6 +42,30 @@ of the battery go into the earth."
 for electrons.*
 * The earth is to electrons as an ocean is to drops of water.*
 * The earth is a virtually limitless source of electrons and also a giant sink for electrons.*
+
+---
+
+We are not able to use the earth ground to reduce our wiring if we are dealing with 1.5V batteries.
+
+The earth simply has too much resistance. 
+
+We simply use the letter 'V' to indicate that we are using voltage here.
+
+TODO: Sketch
+
+* V Stands for voltage, but it can also stand for vacuum. We think of V as an electron vacuum and the ground as an ocean of electrons.*
+
+---
+
+-> The electron vacuum pulls the electrons from the earth through the circuit, doing work all along the way.
+
+---
+
+## So we can decrease our usage of wires by using the earth as a conductor.
+
+## There's one problem left: The larger the wires, the more resistance they have. The more resistance the less current that flows.
+
+## We will overcome this problem with a simple and humble device. One from which entire computers can be built.
 
 
 
