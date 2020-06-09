@@ -1,10 +1,10 @@
-# Code by Charles Petzhold
+# "Code" by Charles Petzhold
 
 ### *Electricity (Basic concepts)*
 
 ## Chapter Five - Seeing Around Corners
 
-_Common (connection/"rail")_
+#### Common (connection/"rail")_
 
 We talk about a *common connection or rail* when we have a shared path between different electrical routes 
 in an electrical circuit. The two circular circuits still operate independently.
