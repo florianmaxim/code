@@ -4,7 +4,7 @@
 
 ## Chapter Five - Seeing Around Corners
 
-#### Common (connection/"rail")_
+#### Common (connection/"rail"):
 
 We talk about a *common connection or rail* when we have a shared path between different electrical routes 
 in an electrical circuit. The two circular circuits still operate independently.
@@ -18,7 +18,7 @@ TODO: Sketch
 => Is there anything bigger on earth but the planet itself? Let's use it!
 ---
 
-_Ground_
+#### Ground:
 
 We use the earth as a conductor by using objects that maintain a substantial contact with the earth.
 
