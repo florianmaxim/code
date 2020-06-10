@@ -1,6 +1,6 @@
 # "Code" by Charles Petzhold
 
-### *Devices of Electrical Engineering: Telegraphs and Relays*
+### *The Phenomenon of Electromagnitism & Devices of Electrical Engineering: Telegraphs and Relays*
 
 ## Chapter Six - Telegraphs and Relays
 
@@ -8,3 +8,9 @@
 
 
 #### Relay
+
+---
+
+## Resources
+
+https://www.youtube.com/watch?v=wGs57VQHt7M
