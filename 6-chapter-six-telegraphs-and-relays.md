@@ -92,11 +92,11 @@ strip of metal that acts like a switch turn on a outgoing current.*
 
 ---
 
-## The relay is a switch that is turned on and off not by human hands but by a current. 
+### -- The relay is a switch that is turned on and off not by human hands but by a current. 
 
-## You could actually assemble much of a computer with it.
+### -- You could actually assemble much of a computer with it.
 
-
+---
 
 ## Resources
 
